@@ -1,0 +1,4 @@
+business.xlsx
+*.pyc
+__pycache__/
+.env
